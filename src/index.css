@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: rgb(255, 255, 255);
+  background-color: rgb(55, 121, 121);
+ 
+}
